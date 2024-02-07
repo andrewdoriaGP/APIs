@@ -89,6 +89,9 @@ Create Custom Report
     "Name": "test6",
     "Frequency": "Monthly",
     "Message": "fg",
+    "PaymentMethods": [
+        "*"
+    ],
     "AdditionalFields": [
         "*"
     ],
