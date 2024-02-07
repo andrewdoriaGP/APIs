@@ -170,6 +170,8 @@ Manual Execute Custom Report
 {
   "Name":"test2",
   "Frequency": "weekly",
+  "DateRangeFrom": "MM-dd-yyyy",
+  "DateRangeTo": "MM-dd-yyyy",
 
   "AdditionalFields": ["Email","Currency"],
   "TransactionTypes":  ["Sale","Capture"],
