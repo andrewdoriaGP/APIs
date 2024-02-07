@@ -19,8 +19,7 @@ For more information on the available fields please see our [object reference](.
             "Id": "Test1",
             "ItemCode": "Test",
             "NextBillDate": "2022-05-19",
-            "Frequency": "Monthly",
-            "Sequence": "1"
+            "Frequency": "Monthly"
         }
     ]
 }
